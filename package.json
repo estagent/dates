@@ -1,12 +1,11 @@
 {
   "name": "@revgaming/dates",
   "author": "estagent <estagent@gmail.com>",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "js strtotime helper",
   "homepage": "https://github.com/estagent/dates",
   "main": "src/index.js",
   "license": "ISC",
-  "type": "module",
   "keywords": [
     "javascript",
     "date",
